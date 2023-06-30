@@ -1,10 +1,12 @@
-### [Landing Page YourJob by Students-Outmind](https://sharonbarrial.github.io/TF-YourJob/)
+### [YourJob by Students-Outmind](https://sharonbarrial.github.io/TF-YourJob/)
+
+[New Age](https://startbootstrap.com/theme/new-age/) is a web app landing page theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
 ## Preview
 
-[Landing Page YourJob](https://sharonbarrial.github.io/TF-YourJob/)
+[![YourJob Landing Page](https://assets.startbootstrap.com/img/screenshots/themes/new-age.png)](https://sharonbarrial.github.io/TF-YourJob/)
 
-**[View Live Preview](https://sharonbarrial.github.io/TF-YourJob/)**
+**[View Live Preview](https://startbootstrap.github.io/startbootstrap-new-age/)**
 
 ## Copyright and License
 
