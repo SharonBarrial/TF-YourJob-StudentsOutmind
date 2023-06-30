@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![YourJob Landing Page](https://assets.startbootstrap.com/img/screenshots/themes/new-age.png)](https://sharonbarrial.github.io/TF-YourJob/)
+[![YourJob Landing Page](https://github.com/SharonBarrial/TF-YourJob-StudentsOutmind/blob/main/src/assets/img/YourJobLivePreview.png)](https://sharonbarrial.github.io/TF-YourJob/)
 
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-new-age/)**
 
