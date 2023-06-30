@@ -2,7 +2,7 @@
 
 ## Preview
 
-[![Landing Page YourJob](https://sharonbarrial.github.io/TF-YourJob/)
+[Landing Page YourJob](https://sharonbarrial.github.io/TF-YourJob/)
 
 **[View Live Preview](https://sharonbarrial.github.io/TF-YourJob/)**
 
